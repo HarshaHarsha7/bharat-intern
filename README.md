@@ -1,2 +1,2 @@
 # bharat-intern
-assignments
+task-2
